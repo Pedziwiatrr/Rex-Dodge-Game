@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (SFML template.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+C:\Pliki\Programowanie\C++\Nauka solo\SFML\RexDodge\SFML template\main.cpp(15,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Pliki\Programowanie\C++\Nauka solo\SFML\RexDodge\SFML template\main.cpp(86,36): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Pliki\Programowanie\C++\Nauka solo\SFML\RexDodge\SFML template\main.cpp(86,31): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Pliki\Programowanie\C++\Nauka solo\SFML\RexDodge\SFML template\main.cpp(163,43): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Pliki\Programowanie\C++\Nauka solo\SFML\RexDodge\SFML template\main.cpp(173,102): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Pliki\Programowanie\C++\Nauka solo\SFML\RexDodge\SFML template\main.cpp(173,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  SFML template.vcxproj -> C:\Pliki\Programowanie\C++\Nauka solo\SFML\RexDodge\Debug\RexDodge.exe
